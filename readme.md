@@ -6,4 +6,4 @@ Current version: 0.0.1
 
 ### License
 
-(c) Sambhav Jain 2018 sambhavjain2612@gmail.com under MIT License
+(c) Sambhav Jain 2018 sambhavjain2612@gmail.com under [MIT License](https://sambhav2612.mit-license.org/)
